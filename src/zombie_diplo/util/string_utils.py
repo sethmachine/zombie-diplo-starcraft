@@ -1,0 +1,2 @@
+NEWLINE = "\r\n"
+BULLET = "-"
